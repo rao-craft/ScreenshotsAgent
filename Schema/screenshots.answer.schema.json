@@ -1,5 +1,5 @@
 {
-  "$id" : "https://github.com/Rao-Craft-Agents/ScreenshotsAgent/blob/main/Schema/screenshots.answer.schema.json",
+  "$id" : "https://github.com/rao-craft/ScreenshotsAgent/blob/main/Schema/screenshots.answer.schema.json",
   "$schema" : "https://json-schema.org/draft/2020-12/schema",
   "allOf" : [
     {

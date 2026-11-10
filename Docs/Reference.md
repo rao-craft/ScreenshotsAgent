@@ -14,7 +14,7 @@ let screenshotsRecord: GraniteRoster.Record = { GraniteRoster.record(Screenshots
 ```
 
 In [Craft](https://github.com/riteshpakala/Craft), install it from the Agent Store or with
-`craft agents add https://github.com/Rao-Craft-Agents/ScreenshotsAgent.git`, then say `$screenshots` in a request:
+`craft agents add https://github.com/rao-craft/ScreenshotsAgent.git`, then say `$screenshots` in a request:
 
 ```
 $screenshots every page of the recipe app, light and dark, for the README

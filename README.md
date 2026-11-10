@@ -48,7 +48,7 @@ the app opens on, or the data its services load, and says so.
 ## Get it
 
 In Craft, install Screenshots from the Agent Store, or run
-`craft agents add https://github.com/Rao-Craft-Agents/ScreenshotsAgent.git`, then say `$screenshots` in a request.
+`craft agents add https://github.com/rao-craft/ScreenshotsAgent.git`, then say `$screenshots` in a request.
 
 ## Requirements
 
